@@ -4,6 +4,7 @@
     <title>Pajak Hiburan</title>
     <style>
         .log{
+            font-family: "Century Gothic";
             text-align: center;
             height: 400px;
             width: 350px;
@@ -13,6 +14,7 @@
             border-bottom-left-radius: 14px;
         }
         .logs{
+            font-family: "Century Gothic";
             padding-left:20px; 
             height: 400px;
             width: 350px;
@@ -22,8 +24,9 @@
             border-bottom-right-radius: 14px;
         }
         input[type=email], select {
+            font-family: "Century Gothic";
             width: 320px;
-            padding: 12px 20px;
+            padding: 12px 12px;
             margin: 8px 0;
             display: block;
             border: 1px solid #ccc;
@@ -31,8 +34,9 @@
             box-sizing: border-box;
         }
         input[type=password], select {
+            font-family: "Century Gothic";
             width: 320px;
-            padding: 12px 20px;
+            padding: 12px 12px;
             margin: 8px 0;
             display: block;
             border: 1px solid #ccc;
@@ -40,6 +44,7 @@
             box-sizing: border-box;
         }
         input[type=submit] {
+            font-family: "Century Gothic";
             width: 320px;
             background-color: #4CAF50;
             color: white;
